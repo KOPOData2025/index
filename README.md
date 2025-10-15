@@ -16,4 +16,4 @@
 | 12 | 조승우 | HanaChain | 블록체인 기반 기부 플랫폼 |https://github.com/KOPOData2025/HanaChain | Front, Back AI, Blockchain 통합 |
 | 13 | 주소영 | HANAinPLAN | 은퇴자를 위한 통합 자산관리 플랫폼 | https://github.com/KOPOData2025/HANAinPLAN | front |
 | 14 | 허동민 | HanaZoom | 우리 동네 주식 맛집 WTS 플랫폼 | https://github.com/KOPOData2025/Hanazoom-BE | BackEnd |
-|  |  |  |  | |  https://github.com/KOPOData2025/Hanazoom-FE | FrontEnd |
+|  |  |  |  |   https://github.com/KOPOData2025/Hanazoom-FE | FrontEnd |
