@@ -9,7 +9,7 @@
 | 4 | 박현서 | 하나원큐리빙 | 오피스텔 관리와 리츠 투자를 하나로 연결한 플랫폼 | [GitHub](https://github.com/KOPOData2025/Hana1QLiving) | - |
 | 5 | 심규원 | 하나 홈 플래너 | 내 집 마련을 위한 청약 + 금융 통합 서비스 | [GitHub](https://github.com/KOPOData2025/HANA_HOMEPLANNER) | `Front` `Back` `Crawler` |
 | 6 | 이봉욱 | Marry1Q | 모임통장 기반 결혼 예산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/Marry1Q) | - |
-| 7 | 이상현 | 하나증권 : THE NEXT | 증권계좌 거래내역 기반 대안신용평가 모델 | [GitHub](https://github.com/KOPOData2025/HanaSecurities-TheNext) | - |
+| 7 | 이상현 | 하나증권 : THE NEXT | 증권계좌 거래내역 기반 대안신용평가 모델 | [GitHub](https://github.com/KOPOData2025/HanaSecurities-TheNext) | `Front` `Back` `AI` |
 | 8 | 이재혁 | 하나:연(緣) | 연금기반 통합 자산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/Hana-Yeon) | `Front` `Back` |
 | 9 | 이철우 | 하나Future | 육아 가정을 위한 금융 통합 서비스 | [GitHub](https://github.com/KOPOData2025/HanaFuture) | - |
 | 10 | 임하늘 | 하나모아 | 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaMoa) | - |
