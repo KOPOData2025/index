@@ -15,5 +15,5 @@
 | 10 | 임하늘 | 하나모아 | 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaMoa) | `통합` |
 | 11 | 전예은 | HanaPath | 청소년을 위한 금융 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaPath) | `Front` `Back` `AI` |
 | 12 | 조승우 | HanaChain | 블록체인 기반 기부 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaChain) | `Front` `Back` `AI` `Blockchain` |
-| 13 | 주소영 | HANAinPLAN | 은퇴자를 위한 통합 자산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/HANAinPLAN) | `Front` |
+| 13 | 주소영 | HANAinPLAN | 은퇴자를 위한 통합 자산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/HANAinPLAN) | `Front` `Back` `AI/Analysis` |
 | 14 | 허동민 | HanaZoom | 우리 동네 주식 맛집 WTS 플랫폼 | [BE](https://github.com/KOPOData2025/Hanazoom-BE) · [FE](https://github.com/KOPOData2025/Hanazoom-FE) | `Front` `Back` |
