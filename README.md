@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|:---|:---|:---:|
 | 1 | 김승현 | 뱅크어드바이저 | 오프라인 창구에서의 고객·행원 경험 개선 플랫폼 | [GitHub](https://github.com/KOPOData2025/BANK-ADVISER) | - |
 | 2 | 남지현 | Fi-Match+ | 데이터 중심 모의 포트폴리오 분석 서비스 | [GitHub](https://github.com/KOPOData2025/Fi-Match-Plus) | `Front` `Back` `Analysis` |
-| 3 | 박지민 | 하나그린세상 | 친환경과 금융을 잇는 고객 중심 녹색금융 플랫폼 | [GitHub](https://github.com/KOPOData2025/HANA_GREEN_WORLD) | - |
+| 3 | 박지민 | 하나그린세상 | 친환경과 금융을 잇는 고객 중심 녹색금융 플랫폼 | [GitHub](https://github.com/KOPOData2025/HANA_GREEN_WORLD) | `Front` `Back` `Bank` `Card` `AI` |
 | 4 | 박현서 | 하나원큐리빙 | 오피스텔 관리와 리츠 투자를 하나로 연결한 플랫폼 | [GitHub](https://github.com/KOPOData2025/Hana1QLiving) | - |
 | 5 | 심규원 | 하나 홈 플래너 | 내 집 마련을 위한 청약 + 금융 통합 서비스 | [GitHub](https://github.com/KOPOData2025/HANA_HOMEPLANNER) | `Front` `Back` `Crawler` |
 | 6 | 이봉욱 | Marry1Q | 모임통장 기반 결혼 예산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/Marry1Q) | - |
