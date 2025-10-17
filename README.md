@@ -12,7 +12,7 @@
 | 7 | 이상현 | 하나증권 : THE NEXT | 증권계좌 거래내역 기반 대안신용평가 모델 | [GitHub](https://github.com/KOPOData2025/HanaSecurities-TheNext) | `Front` `Back` `AI` |
 | 8 | 이재혁 | 하나:연(緣) | 연금기반 통합 자산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/Hana-Yeon) | `Front` `Back` |
 | 9 | 이철우 | 하나Future | 육아 가정을 위한 금융 통합 서비스 | [GitHub](https://github.com/KOPOData2025/HanaFuture) | - |
-| 10 | 임하늘 | 하나모아 | 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaMoa) | - |
+| 10 | 임하늘 | 하나모아 | 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaMoa) | `Front(웹, 앱)` `Back` `AI` |
 | 11 | 전예은 | HanaPath | 청소년을 위한 금융 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaPath) | `Front` `Back` `AI` |
 | 12 | 조승우 | HanaChain | 블록체인 기반 기부 플랫폼 | [GitHub](https://github.com/KOPOData2025/HanaChain) | `Front` `Back` `AI` `Blockchain` |
 | 13 | 주소영 | HANAinPLAN | 은퇴자를 위한 통합 자산관리 플랫폼 | [GitHub](https://github.com/KOPOData2025/HANAinPLAN) | `Front` |
